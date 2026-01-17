@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madoa5561)](https://github.com/anuraghazra/github-readme-stats)
+[![Gitty Score](gitty-code.com/api/badge/${madoa5561}.png)](gitty-code.com/user/${madoa5561})
