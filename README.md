@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madoa5561&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=madoa5561&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=madoa5561&theme=juicyfresh&no-bg=true" />
+<p align="center">
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=madoa5561&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=madoa5561&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
